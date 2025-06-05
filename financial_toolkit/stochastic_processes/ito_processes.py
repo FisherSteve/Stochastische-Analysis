@@ -1,7 +1,3 @@
-# --- File: financial_toolkit/stochastic_processes/__init__.py ---
-# This file can be empty. It indicates that 'stochastic_processes' is a Python package.
-
-# --- File: financial_toolkit/stochastic_processes/ito_processes.py ---
 import numpy as np
 from scipy.integrate import cumulative_trapezoid # For path-dependent theoretical QV
 
