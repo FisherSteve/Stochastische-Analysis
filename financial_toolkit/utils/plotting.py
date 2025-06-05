@@ -1,8 +1,3 @@
-# --- File: financial_toolkit/utils/__init__.py ---
-# This file can be empty. It indicates that 'utils' is a Python package.
-
-
-# --- File: financial_toolkit/utils/plotting.py ---
 import matplotlib.pyplot as plt
 import numpy as np # Needed for np.linspace in plot_lines color generation
 
