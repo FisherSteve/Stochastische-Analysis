@@ -10,7 +10,7 @@ The goal of this repository is to showcase various implementations and analyses 
 
 * **`financial_toolkit/`**: A module or collection of scripts containing reusable functions and classes for financial calculations, such as option pricing models (e.g., Black-Scholes), Monte Carlo simulations, and risk measures.
 * **`test.ipynb`**: Jupyter Notebooks demonstrating specific financial applications, model testing, and data analysis. These notebooks serve as interactive examples to understand the implementations.
-* **`grafiken/`**: Placeholder for any graphical outputs or visualizations generated from the analyses.
+
 
 ## Technologies & Libraries
 
