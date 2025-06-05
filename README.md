@@ -6,11 +6,21 @@ This repository serves as a practical collection of applications in **financial 
 
 The goal of this repository is to showcase various implementations and analyses related to financial instruments, models, and derivatives pricing using mathematical and computational techniques. You'll find code examples and analyses that demonstrate the application of stochastic calculus, probability theory, and numerical methods in finance.
 
+## Mathematical Foundations
+
+This repository leverages a range of mathematical disciplines, including but not limited to:
+
+* **Stochastic Calculus**: Focusing on Brownian motion, Itô's Lemma, stochastic differential equations (SDEs), and martingale theory, fundamental for modeling asset prices.
+* **Probability Theory**: Concepts such as probability spaces, random variables, conditional expectation, and measure theory, which are crucial for understanding risk and uncertainty.
+* **Partial Differential Equations (PDEs)**: Applied in derivatives pricing (e.g., Black-Scholes PDE) and other financial models.
+* **Numerical Methods**: Techniques like Monte Carlo simulations, finite difference methods, and binomial trees for approximating solutions to complex financial problems.
+* **Optimization**: Used in portfolio management and risk allocation.
+* **Linear Algebra**: Essential for various financial computations and statistical analyses.
+
 ## Contents
 
 * **`financial_toolkit/`**: A module or collection of scripts containing reusable functions and classes for financial calculations, such as option pricing models (e.g., Black-Scholes), Monte Carlo simulations, and risk measures.
 * **`test.ipynb`**: Jupyter Notebooks demonstrating specific financial applications, model testing, and data analysis. These notebooks serve as interactive examples to understand the implementations.
-
 
 ## Technologies & Libraries
 
