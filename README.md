@@ -58,4 +58,4 @@ This is primarily a personal project. However, if you find any issues or have su
 
 ## License
 
-[MIT License](LICENSE) (You might want to add a `LICENSE` file if you plan to share this publicly)
+[MIT License](LICENSE)
