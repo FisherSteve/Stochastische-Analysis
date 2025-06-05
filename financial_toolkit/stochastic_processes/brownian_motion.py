@@ -1,14 +1,10 @@
-# --- File: financial_toolkit/stochastic_processes/__init__.py ---
-# This file can be empty. It indicates that 'stochastic_processes' is a Python package.
 
-
-# --- File: financial_toolkit/stochastic_processes/brownian_motion.py ---
 import numpy as np
 import matplotlib.pyplot as plt 
 from scipy.stats import norm
 from scipy.integrate import cumulative_trapezoid # For path-dependent theoretical QV
 
-# Import plotting utilities (assuming standard project structure)
+
 try:
     from ..utils.plotting import plot_lines, plot_histogram_with_pdf
 except (ImportError, ValueError): 
